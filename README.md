@@ -32,7 +32,7 @@ As the project progresses, the team plans to:
 ## Getting Started
 
 ### Clone the Repository
-Clone the project repository from [https://github.com/stephaniechansddo/assignment04].
+Clone the project repository from [https://github.com/stephaniechansddo/assessment].
 
 ### Set Up Development Environment
 - Ensure you have Git, Eclipse IDE, Maven, and Java 11 installed on your development machine.
